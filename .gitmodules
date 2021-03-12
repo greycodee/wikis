@@ -1,0 +1,3 @@
+[submodule "golang-wiki"]
+	path = golang-wiki
+	url = git@github.com:greycodee/golang-wiki.git
